@@ -1,0 +1,12 @@
+var x = 2;
+console.log(x+=2);
+var y = 20
+console.log(y-=10);
+var z = 4;
+console.log(z*=2);
+var a = 4;
+console.log(a/=2);
+var b = 4;
+console.log(b%=2);
+var c = 4;
+console.log(c**=2);
